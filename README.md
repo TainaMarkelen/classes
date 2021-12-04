@@ -1,3 +1,3 @@
 # classes
 
-Codes with use of class.
+General usages of classes in Python.
